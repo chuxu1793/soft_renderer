@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vs/soft_renderer/v15/ipch/
+soft_renderer/Debug/
+soft_renderer/Release/
+*.pdb
+*.ilk
